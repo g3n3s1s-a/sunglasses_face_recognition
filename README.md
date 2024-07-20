@@ -1,4 +1,4 @@
-# Computer Vision Lab: Impact of Sunglasses on Face Recognition
+# CVRL: Impact of Sunglasses on Face Recognition
 
 ## Overview
 
